@@ -1,7 +1,7 @@
 # Hey there, I'm Fayham! 👋
 <p>Software Developer | Gamer | Lifelong Learner</p>
 
-## About Me 🚀
+## 🚀 About Me
 <p>I'm a Software Developer that is focused on Frontend Development, having spent the previous 5 years working on Data and AI as a Consultant and Cloud Solution Architect.</p>
 <p>🌍 Based in the UK.</p>
 <p>📬 Reach me at: alomfn@gmail.com</p>
