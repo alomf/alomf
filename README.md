@@ -8,10 +8,10 @@
 
 ## 💻 Projects I’m Proud Of.
 🌟 Space Tourism Website
-A Space Tourism Website, fully responsive and using HTML, CSS and JavaScript.
+<p>A Space Tourism Website, fully responsive and using HTML, CSS and JavaScript.</p>
 
 🌟 #VanLife
-A fully responsive React project, showcasing Vans for rent.
+<p>A fully responsive React project, showcasing Vans for rent.</p>
 
 ## 🧠 What I’m Learning.
 <p>🔭 I’m currently working on several solo projects which are using HTML, CSS, JavaScript, React and TypeScript. I've also been working on design files using Figma.</p>
