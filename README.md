@@ -1,18 +1,19 @@
-## Hey there 👋, I'm Fayham!
+# Hey there, I'm Fayham! 👋
+<p>🚀 Developer | Gamer | Lifelong Learner</p>
 
-<p>🚀 Developer | Innovator | Lifelong Learner</p>
+## About Me 🚀
 <p>I'm a Software Developer that is focused on Frontend Development, having spent the previous 5 years working on Data and AI as a Consultant and Cloud Solution Architect.</p>
 <p>🌍 Based in the UK.</p>
-<p>📧 Reach me at: alomfn@gmail.com</p>
+<p>📬 Reach me at: alomfn@gmail.com</p>
 
-## 📂 Projects I’m Proud Of.
+## 💻 Projects I’m Proud Of.
 🌟 Space Tourism Website
 A Space Tourism Website, fully responsive and using HTML, CSS and JavaScript.
 
 🌟 #VanLife
 A fully responsive React project, showcasing Vans for rent.
 
-## 🌱 What I’m Learning.
+## 🧠 What I’m Learning.
 <p>🔭 I’m currently working on several solo projects which are using HTML, CSS, JavaScript, React and TypeScript. I've also been working on design files using **Figma**.</p>
 <p>🌱 I’m currently learning through the Scrimba courses online, which has a wide range of courses.</p>
 <p>Feel free to check out my repositories to check out what I've been working on.</p>
