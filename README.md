@@ -28,10 +28,6 @@ A fully responsive React project, showcasing Vans for rent.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alomf&" alt="alomf" /></p>
 
 
-
-<p>✨ “Code is like humor. When you have to explain it, it’s bad.”</p>
-<p>🌟 Happy Coding!</p>
-
 <!--
 **alomf/alomf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
