@@ -14,8 +14,8 @@ A Space Tourism Website, fully responsive and using HTML, CSS and JavaScript.
 A fully responsive React project, showcasing Vans for rent.
 
 ## 🧠 What I’m Learning.
-<p>🔭 I’m currently working on several solo projects which are using HTML, CSS, JavaScript, React and TypeScript. I've also been working on design files using **Figma**.</p>
-<p>🌱 I’m currently learning through the Scrimba courses online, which has a wide range of courses.</p>
+<p>🔭 I’m currently working on several solo projects which are using HTML, CSS, JavaScript, React and TypeScript. I've also been working on design files using Figma.</p>
+<p>🌱 I’m currently learning through the Scrimba courses online, which has a wide range of courses covering Frontend Development, Backend Develpoment and AI.</p>
 <p>Feel free to check out my repositories to check out what I've been working on.</p>
 
 
