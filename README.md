@@ -1,5 +1,5 @@
 # Hey there, I'm Fayham! 👋
-<p>🚀 Developer | Gamer | Lifelong Learner</p>
+<p>Software Developer | Gamer | Lifelong Learner</p>
 
 ## About Me 🚀
 <p>I'm a Software Developer that is focused on Frontend Development, having spent the previous 5 years working on Data and AI as a Consultant and Cloud Solution Architect.</p>
