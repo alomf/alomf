@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fayham!</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
-- 🔭 I’m currently working on **the Scrimba Frontend Developer course, alongside all of the other courses they have available to further improve my skillset**
+- 🔭 I’m currently working on **several solo projects, all of which can be found on my profile repositories**
 
-- 🌱 I’m currently learning **React, TypeScript and Next.js**
+- 🌱 I’m currently learning **the Scrimba Frontend Developer course, I've choseen this course to improve my skillset as this includes HTML, CSS, JavaScript, React and TypeScript. Once this course has been completed, I'll start making progress on the Scrimba AI course.**
 
 - 📫 How to reach me **alomfn@gmail.com**
 
