@@ -9,11 +9,14 @@ Website: https://fayham.vercel.app/
 <p>📬 Reach me at: alomfn@gmail.com</p>
 
 ## 💻 Projects I'm proud of.
-🌟 Space Tourism Website
-<p>A Space Tourism Website, fully responsive and using HTML, CSS and JavaScript.</p>
+🌟 FAYHAM.
+<p>Designed and developed my personal portfolio website to showcase my work, projects, and technical expertise.</p>
 
-🌟 #VanLife
-<p>A fully responsive React project, showcasing Vans for rent.</p>
+🌟 Memory Game
+<p>Designed and developed a Memory Game with a sleek, intuitive UI/UX, leveraging React and modern web technologies. Built in collaboration with Scrimba, this project showcases dynamic animations, smooth state management, and an engaging user experience.</p>
+
+🌟 Movie Database Search
+<p>Designed and developed a Movie Database Search App with a sleek, user-friendly UI, leveraging React and modern web technologies. Built in collaboration with Scrimba, this project features dynamic search functionality, seamless state management, and an engaging user experience.</p>
 
 ## 🧠 What I’m learning.
 <p>🔭 I’m currently working on several solo projects which are using HTML, CSS, JavaScript, React and TypeScript. I've also been working on design files using Figma.</p>
