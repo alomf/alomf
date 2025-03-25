@@ -1,5 +1,5 @@
 # Hey there, I'm Fayham! 👋
-<p>Software Developer | Gamer | Lifelong Learner</p>
+<p>Software Engineer // Fullstack Engineer | Gamer | Lifelong Learner</p>
 
 Website: https://fayham.vercel.app/
 
