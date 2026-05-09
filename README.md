@@ -1,47 +1,60 @@
 # Hey there, I'm Fayham! 👋
-<p>Software Engineer // Fullstack Engineer | Gamer | Lifelong Learner</p>
 
-Website: https://fayham.vercel.app/
+**AI Solutions Architect | Fullstack Engineer | Gamer | Lifelong Learner**
+
+Website: [fayham.vercel.app](https://fayham.vercel.app/)
 
 ## 🚀 About me
-<p>I'm a Software Developer that is focused on Frontend Development, having spent the previous 5 years working on Data and AI as a Consultant and Cloud Solution Architect.</p>
-<p>🌍 Based in the UK.</p>
-<p>📬 Reach me at: alomfn@gmail.com</p>
 
-## 💻 Projects I'm proud of.
-🌟 FAYHAM.
-<p>Designed and developed my personal portfolio website to showcase my work, projects, and technical expertise.</p>
+I'm an AI Solutions Architect specialising in generative AI integrations — building production workflows that combine LLMs, image generation, and video synthesis models into end-to-end creative pipelines.
 
-🌟 Memory Game
-<p>Designed and developed a Memory Game with a sleek, intuitive UI/UX, leveraging React and modern web technologies. Built in collaboration with Scrimba, this project showcases dynamic animations, smooth state management, and an engaging user experience.</p>
+Previously spent 5+ years in Data & AI as a Consultant and Cloud Solution Architect, and carry a strong fullstack engineering background across frontend, backend, and cloud infrastructure.
 
-🌟 Movie Database Search
-<p>Designed and developed a Movie Database Search App with a sleek, user-friendly UI, leveraging React and modern web technologies. Built in collaboration with Scrimba, this project features dynamic search functionality, seamless state management, and an engaging user experience.</p>
+🌍 Based in the UK.
 
-## 🧠 What I’m learning.
-<p>🔭 I’m currently working on several solo projects which are using HTML, CSS, JavaScript, React and TypeScript. I've also been working on design files using Figma.</p>
-<p>🌱 I’m currently learning through the Scrimba courses online, which has a wide range of courses covering Frontend Development, Backend Develpoment and AI.</p>
-<p>Feel free to check out my repositories to explore what I've been working on.</p>
+📬 Reach me at: alomfn@gmail.com
 
+## 💻 Projects
 
-## 🛠️ Tech Stack.
+🌟 **ModelArk** (Private)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+Python integration reference for BytePlus Ark / ModelArk APIs. Covers text chat, vision, image generation, video synthesis, and 3D model creation across five model families (Seed 2.0, Seedream, Seedance, Hyper3D, Hitem3D). Includes reusable style presets, runnable workflow jobs, asset management, and 250+ mocked tests.
 
-## 📊 GitHub Stats.
+🌟 **Gaming Creative Studio** (Private)
+
+AI-powered gaming creative studio built with React, TypeScript, and FastAPI. Orchestrates three GenAI models (Seed 2.0, Seedream 5.0, Seedance 2.0) through a five-stage pipeline — from game brief to AI-reviewed video creative. Features SSE streaming, VLM video review, and LocalStorage autosave.
+
+🌟 **FAYHAM**
+
+Personal portfolio website showcasing my work, projects, and technical expertise.
+
+## 🧠 What I'm working on
+
+🔭 Building GenAI integration patterns and demo applications that showcase real-world use cases for multimodal AI models — text, image, video, and 3D.
+
+🌱 Deepening expertise in AI agent frameworks, prompt engineering, and production AI system design.
+
+Feel free to check out my repositories to explore what I've been working on.
+
+## 🛠️ Tech Stack
+
+**AI & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Cloud & Data**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**Tools**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alomf&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alomf&theme=dark&show_icons=true&hide_border=true&count_private=true)
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=alomf&theme=dark&hide_border=true" alt="alomf's GitHub Stats" />-->
-
-<!--
-**alomf/alomf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
