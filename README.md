@@ -10,6 +10,8 @@ I'm an AI Solutions Architect specialising in generative AI integrations — bui
 
 Previously spent 5+ years in Data & AI as a Consultant and Cloud Solution Architect, and carry a strong fullstack engineering background across frontend, backend, and cloud infrastructure.
 
+🏢 Currently at **BytePlus** (ByteDance).
+
 🌍 Based in the UK.
 
 📬 Reach me at: alomfn@gmail.com
