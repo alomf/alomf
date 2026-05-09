@@ -54,7 +54,3 @@ Feel free to check out my repositories to explore what I've been working on.
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alomf&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alomf&theme=dark&show_icons=true&hide_border=true&count_private=true)
